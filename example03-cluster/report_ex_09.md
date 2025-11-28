@@ -47,4 +47,5 @@ Conclusions:
 - Outliers strongly affect unsupervised learning and should be removed
 - PCA helps simplify data and improves cluster visualization
 - K-Means and Agglomerative clustering give consistent results after preprocessing
+
 - The improved workflow is: clean -> scale -> PCA -> cluster -> interpret
